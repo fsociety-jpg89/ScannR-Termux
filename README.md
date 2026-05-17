@@ -64,6 +64,8 @@ Examples
 Disclaimer
 
 This tool is intended for educational and authorized security testing purposes only. Unauthorized scanning of networks or systems may violate laws and regulations. The author is not responsible for any misuse.
+
+
 ---
 # Screenshots
 ![Menu](Scannr.jpg)
