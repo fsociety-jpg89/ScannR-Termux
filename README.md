@@ -39,7 +39,7 @@ Usage
 Run the script with Python:
 
 ```bash
-python3 scannr.py
+python scannr.py
 ```
 
 Follow the interactive menu:
