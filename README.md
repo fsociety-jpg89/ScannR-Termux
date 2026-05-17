@@ -1,6 +1,3 @@
-Here is a README.md file for your repository, written in English without emojis.
-
-```markdown
 # ScanNR - Security Scanner
 
 ScanNR is a lightweight security scanner optimized for Termux environments. It provides URL analysis, port scanning, geolocation, DNS lookup, and a full scan mode.
